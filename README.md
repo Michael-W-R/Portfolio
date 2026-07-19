@@ -1,6 +1,6 @@
 # Michael W. R — Portfolio
 
-This portfolio highlights the digital products, workflows, and modernization tools I’ve designed and built across my Army G‑1 roles and independent projects. My work focuses on reducing friction for Soldiers, improving readiness, and creating intuitive, scalable solutions that support the entire force.
+This portfolio highlights the digital products, workflows, and modernization tools I’ve designed and built across my Army roles and independent projects. My work focuses on reducing friction for Soldiers, improving readiness, and creating intuitive, scalable solutions that support the entire force.
 
 Because many of my Army projects require CAC access, this portfolio provides non-sensitive case studies, UI/UX workflows, screenshots, and product summaries that demonstrate my design thinking, technical capability, and approach to solving real operational problems.
 
