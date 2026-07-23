@@ -1,5 +1,10 @@
 # Strength Management Tool — Case Study
 
+![Strength Management Tool dashboard — illustrative, sample data](../images/strength-management-tool.svg)
+
+*Representative dashboard view — illustrative layout with sample data (no real
+personnel data).*
+
 ## Overview
 The Strength Management Tool is a Power BI readiness dashboard suite that
 consolidates multiple personnel-system exports into a single analytical model.
@@ -47,7 +52,6 @@ This project demonstrates my ability to:
 - Deliver tooling that directly supports readiness and force management
 
 *Built with Power BI (Power Query, DAX) using a snapshot star-schema
-architecture. Developed and demonstrated with non-sensitive sample data.*
-
-<!-- Screenshots: add dashboard images to the PowerBI-Dashboards section and
-     link them here once captured from the sample-data build. -->
+architecture. Developed and demonstrated with non-sensitive sample data. The
+image above is an illustrative representation of the dashboard layout; live
+screenshots from the sample-data build can be substituted here.*
