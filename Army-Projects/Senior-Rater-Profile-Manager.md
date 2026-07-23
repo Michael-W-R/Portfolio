@@ -1,10 +1,5 @@
 # Senior Rater Profile Manager — Case Study
 
-![Senior Rater Profile Manager dashboard — illustrative, sample data](../images/senior-rater-profile-manager.svg)
-
-*Representative dashboard view — illustrative layout with sample data (no real
-evaluation data).*
-
 ## Overview
 The Senior Rater Profile Manager is a Power BI decision-support tool that helps
 senior raters manage their evaluation profiles with confidence. It shows a
@@ -55,6 +50,4 @@ This project demonstrates my ability to:
 - Deliver a tool that leaders actually use to make better decisions
 
 *Built with Power BI (Power Query, DAX). Developed and demonstrated with
-non-sensitive sample data. The image above is an illustrative representation of
-the dashboard layout; live screenshots from the sample-data build can be
-substituted here.*
+non-sensitive sample data.*
